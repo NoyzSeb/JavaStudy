@@ -6,7 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
+public class MinSwap2 {
 
     // Complete the minimumSwaps function below.
     public static int swap_counter;
